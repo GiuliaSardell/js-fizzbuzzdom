@@ -1,0 +1,33 @@
+body{
+  background-color: lightblue!important; 
+}
+
+.container>h1{
+  color: white;
+  text-align: center;
+}
+
+.box{
+  height: 80px;
+  width: 80px !important;
+  background-color: pink;
+  border: 1px solid white;
+  color: white;
+  font-size: 25px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.per3{
+  background-color: lightsalmon;
+}
+
+.per5{
+  background-color: lightgreen;
+}
+
+.both{
+  background-color: lightseagreen;
+}
