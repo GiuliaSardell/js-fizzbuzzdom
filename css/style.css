@@ -13,21 +13,20 @@ body{
   background-color: pink;
   border: 1px solid white;
   color: white;
-  font-size: 25px;
   margin: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.per3{
+.fizz{
   background-color: lightsalmon;
 }
 
-.per5{
+.buzz{
   background-color: lightgreen;
 }
 
-.both{
+.fizzbuzz{
   background-color: lightskyblue;
 }
